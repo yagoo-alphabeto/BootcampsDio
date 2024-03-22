@@ -1,0 +1,3978 @@
+[
+    {
+        "Id": "a56337a6ab484712a29087b6072a2016",
+        "RecognitionStatus": 0,
+        "Offset": 84300000,
+        "Duration": 14000000,
+        "Channel": 0,
+        "DisplayText": "Eu perdi?",
+        "NBest": [
+            {
+                "Confidence": 0.9022804,
+                "Lexical": "eu perdi",
+                "ITN": "eu perdi",
+                "MaskedITN": "eu perdi",
+                "Display": "Eu perdi?",
+                "Words": [
+                    {
+                        "Word": "eu",
+                        "Offset": 234500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "perdi",
+                        "Offset": 237300000,
+                        "Duration": 11200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9022804,
+                "Lexical": "eu perdi",
+                "ITN": "eu perdi",
+                "MaskedITN": "eu perdi",
+                "Display": "eu perdi",
+                "Words": [
+                    {
+                        "Word": "eu",
+                        "Offset": 234500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "perdi",
+                        "Offset": 237300000,
+                        "Duration": 11200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9022804,
+                "Lexical": "eu perdi",
+                "ITN": "eu perdi",
+                "MaskedITN": "eu perdi",
+                "Display": "eu perdi",
+                "Words": [
+                    {
+                        "Word": "eu",
+                        "Offset": 234500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "perdi",
+                        "Offset": 237300000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9022804,
+                "Lexical": "eu perdi",
+                "ITN": "eu perdi",
+                "MaskedITN": "eu perdi",
+                "Display": "eu perdi",
+                "Words": [
+                    {
+                        "Word": "eu",
+                        "Offset": 234500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "perdi",
+                        "Offset": 237300000,
+                        "Duration": 11200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9022804,
+                "Lexical": "eu perdi",
+                "ITN": "eu perdi",
+                "MaskedITN": "eu perdi",
+                "Display": "eu perdi",
+                "Words": [
+                    {
+                        "Word": "eu",
+                        "Offset": 234500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "perdi",
+                        "Offset": 237300000,
+                        "Duration": 11200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "28a6822311fa4e0f8a0f5bc2285fa10a",
+        "RecognitionStatus": 0,
+        "Offset": 112400000,
+        "Duration": 24800000,
+        "Channel": 0,
+        "DisplayText": "A gravidade nesse sofá?",
+        "NBest": [
+            {
+                "Confidence": 0.54404294,
+                "Lexical": "a gravidade nesse sofá",
+                "ITN": "a gravidade nesse sofá",
+                "MaskedITN": "a gravidade nesse sofá",
+                "Display": "A gravidade nesse sofá?",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 262600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gravidade",
+                        "Offset": 263000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 270200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 274600000,
+                        "Duration": 12800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.37232065,
+                "Lexical": "a grade nesse sofá",
+                "ITN": "a grade nesse sofá",
+                "MaskedITN": "a grade nesse sofá",
+                "Display": "a grade nesse sofá",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 262600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "grade",
+                        "Offset": 263000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 270200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 274600000,
+                        "Duration": 12800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.54404294,
+                "Lexical": "a gravidade nesse sofá",
+                "ITN": "a gravidade nesse sofá",
+                "MaskedITN": "a gravidade nesse sofá",
+                "Display": "a gravidade nesse sofá",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 262600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gravidade",
+                        "Offset": 263000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 270200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 274600000,
+                        "Duration": 12800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.54404294,
+                "Lexical": "a gravidade nesse sofá",
+                "ITN": "a gravidade nesse sofá",
+                "MaskedITN": "a gravidade nesse sofá",
+                "Display": "a gravidade nesse sofá",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 262600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gravidade",
+                        "Offset": 263000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 270200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 274600000,
+                        "Duration": 12800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.54404294,
+                "Lexical": "a gravidade nesse sofá",
+                "ITN": "a gravidade nesse sofá",
+                "MaskedITN": "a gravidade nesse sofá",
+                "Display": "a gravidade nesse sofá",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 262600000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gravidade",
+                        "Offset": 263000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 270200000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 274600000,
+                        "Duration": 12800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "ad7b777b649944ebb5f4d2dc0959eac0",
+        "RecognitionStatus": 0,
+        "Offset": 160000000,
+        "Duration": 67600000,
+        "Channel": 0,
+        "DisplayText": "Quis ao certo tempo parar e fui até as estrelas e não sair do lugar.",
+        "NBest": [
+            {
+                "Confidence": 0.6930556,
+                "Lexical": "quis ao certo tempo parar e fui até as estrelas e não sair do lugar",
+                "ITN": "quis ao certo tempo parar e fui até as estrelas e não sair do lugar",
+                "MaskedITN": "quis ao certo tempo parar e fui até as estrelas e não sair do lugar",
+                "Display": "Quis ao certo tempo parar e fui até as estrelas e não sair do lugar.",
+                "Words": [
+                    {
+                        "Word": "quis",
+                        "Offset": 310200000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ao",
+                        "Offset": 316600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 319800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 325000000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "parar",
+                        "Offset": 329400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 337400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "fui",
+                        "Offset": 339800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 342200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "as",
+                        "Offset": 345800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "estrelas",
+                        "Offset": 347400000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 359000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 360600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sair",
+                        "Offset": 362600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 370600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "lugar",
+                        "Offset": 372600000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7558684,
+                "Lexical": "quis ao certo tempo parar fui até as estrelas e não sair do lugar",
+                "ITN": "quis ao certo tempo parar fui até as estrelas e não sair do lugar",
+                "MaskedITN": "quis ao certo tempo parar fui até as estrelas e não sair do lugar",
+                "Display": "quis ao certo tempo parar fui até as estrelas e não sair do lugar",
+                "Words": [
+                    {
+                        "Word": "quis",
+                        "Offset": 310200000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ao",
+                        "Offset": 316600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 319800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 325000000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "parar",
+                        "Offset": 329400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "fui",
+                        "Offset": 337000000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 342200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "as",
+                        "Offset": 345800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "estrelas",
+                        "Offset": 347400000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 359000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 360600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sair",
+                        "Offset": 362600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 370600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "lugar",
+                        "Offset": 372600000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7339406,
+                "Lexical": "quis ao certo tempo parar flui até as estrelas e não sair do lugar",
+                "ITN": "quis ao certo tempo parar flui até as estrelas e não sair do lugar",
+                "MaskedITN": "quis ao certo tempo parar flui até as estrelas e não sair do lugar",
+                "Display": "quis ao certo tempo parar flui até as estrelas e não sair do lugar",
+                "Words": [
+                    {
+                        "Word": "quis",
+                        "Offset": 310200000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ao",
+                        "Offset": 316600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 319800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 325000000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "parar",
+                        "Offset": 329400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "flui",
+                        "Offset": 337000000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 342200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "as",
+                        "Offset": 345800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "estrelas",
+                        "Offset": 347400000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 359000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 360600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sair",
+                        "Offset": 362600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 370600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "lugar",
+                        "Offset": 372600000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6930556,
+                "Lexical": "quis ao certo tempo parar e fui até as estrelas e não sair do lugar",
+                "ITN": "quis ao certo tempo parar e fui até as estrelas e não sair do lugar",
+                "MaskedITN": "quis ao certo tempo parar e fui até as estrelas e não sair do lugar",
+                "Display": "quis ao certo tempo parar e fui até as estrelas e não sair do lugar",
+                "Words": [
+                    {
+                        "Word": "quis",
+                        "Offset": 310200000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ao",
+                        "Offset": 316600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 319800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 325000000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "parar",
+                        "Offset": 329400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 337400000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "fui",
+                        "Offset": 339800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 342200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "as",
+                        "Offset": 345800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "estrelas",
+                        "Offset": 347400000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 359000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 360600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sair",
+                        "Offset": 362600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 370600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "lugar",
+                        "Offset": 372600000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7558685,
+                "Lexical": "quis ao certo tempo parar fui até as estrelas e não sair do lugar",
+                "ITN": "quis ao certo tempo parar fui até as estrelas e não sair do lugar",
+                "MaskedITN": "quis ao certo tempo parar fui até as estrelas e não sair do lugar",
+                "Display": "quis ao certo tempo parar fui até as estrelas e não sair do lugar",
+                "Words": [
+                    {
+                        "Word": "quis",
+                        "Offset": 310200000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "ao",
+                        "Offset": 316600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "certo",
+                        "Offset": 319800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 325000000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "parar",
+                        "Offset": 329400000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "fui",
+                        "Offset": 337000000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 342200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "as",
+                        "Offset": 345800000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "estrelas",
+                        "Offset": 347400000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 359000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 360600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sair",
+                        "Offset": 362600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 370600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "lugar",
+                        "Offset": 372600000,
+                        "Duration": 5200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "c2983c8e3da3440bbf989b0066288a2c",
+        "RecognitionStatus": 0,
+        "Offset": 246800000,
+        "Duration": 29600000,
+        "Channel": 0,
+        "DisplayText": "Navegando na?",
+        "NBest": [
+            {
+                "Confidence": 0.28540254,
+                "Lexical": "navegando na",
+                "ITN": "navegando na",
+                "MaskedITN": "navegando na",
+                "Display": "Navegando na?",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 397000000,
+                        "Duration": 14000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 423400000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.26635796,
+                "Lexical": "navegando na",
+                "ITN": "navegando na",
+                "MaskedITN": "navegando na",
+                "Display": "navegando na",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 397000000,
+                        "Duration": 14000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 423400000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.28540236,
+                "Lexical": "navegando na",
+                "ITN": "navegando na",
+                "MaskedITN": "navegando na",
+                "Display": "navegando na",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 397000000,
+                        "Duration": 14000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 423400000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.2663579,
+                "Lexical": "navegando na",
+                "ITN": "navegando na",
+                "MaskedITN": "navegando na",
+                "Display": "navegando na",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 397000000,
+                        "Duration": 14000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 423400000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.02256715,
+                "Lexical": "navegador",
+                "ITN": "navegador",
+                "MaskedITN": "navegador",
+                "Display": "navegador",
+                "Words": [
+                    {
+                        "Word": "navegador",
+                        "Offset": 397000000,
+                        "Duration": 8800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "8fdfb244d8f043ebaef512bea6f56c77",
+        "RecognitionStatus": 0,
+        "Offset": 322300000,
+        "Duration": 15200000,
+        "Channel": 0,
+        "DisplayText": "Navegando.",
+        "NBest": [
+            {
+                "Confidence": 0.9074909,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "Navegando.",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 472500000,
+                        "Duration": 15200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.3151242,
+                "Lexical": "cigano navegando",
+                "ITN": "cigano navegando",
+                "MaskedITN": "cigano navegando",
+                "Display": "cigano navegando",
+                "Words": [
+                    {
+                        "Word": "cigano",
+                        "Offset": 440100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "navegando",
+                        "Offset": 472500000,
+                        "Duration": 15200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9074909,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 472500000,
+                        "Duration": 15200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9074909,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 472500000,
+                        "Duration": 15200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9074909,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 472500000,
+                        "Duration": 14400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "81b78168d4c64e47a5d7d2f907bcf709",
+        "RecognitionStatus": 0,
+        "Offset": 388400000,
+        "Duration": 91600000,
+        "Channel": 0,
+        "DisplayText": "Não, não, eu sei que não e não adianta a minha visão, que é ser.",
+        "NBest": [
+            {
+                "Confidence": 0.6621997,
+                "Lexical": "não não eu sei que não e não adianta a minha visão que é ser",
+                "ITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "MaskedITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Display": "Não, não, eu sei que não e não adianta a minha visão, que é ser.",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 538600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 555400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 561800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 564600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 569800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 572200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 583400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 586600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "adianta",
+                        "Offset": 590200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 601000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 602600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "visão",
+                        "Offset": 607000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 619400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 621400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 623400000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6621997,
+                "Lexical": "não não eu sei que não e não adianta a minha visão que é ser",
+                "ITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "MaskedITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Display": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 538600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 555400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 561800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 564600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 569800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 572200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 583400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 586600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "adianta",
+                        "Offset": 590200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 601000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 602600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "visão",
+                        "Offset": 607000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 619400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 621400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 623400000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6621997,
+                "Lexical": "não não eu sei que não e não adianta a minha visão que é ser",
+                "ITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "MaskedITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Display": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 538600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 555400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 561800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 564600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 569800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 572200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 583400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 586600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "adianta",
+                        "Offset": 590200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 601000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 602600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "visão",
+                        "Offset": 607000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 619400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 621400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 623400000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6621997,
+                "Lexical": "não não eu sei que não e não adianta a minha visão que é ser",
+                "ITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "MaskedITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Display": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 538600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 555400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 561800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 564600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 569800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 572200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 583400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 586600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "adianta",
+                        "Offset": 590200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 601000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 602600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "visão",
+                        "Offset": 607000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 619400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 621400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 623400000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6621997,
+                "Lexical": "não não eu sei que não e não adianta a minha visão que é ser",
+                "ITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "MaskedITN": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Display": "não não eu sei que não e não adianta a minha visão que é ser",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 538600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 555400000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 561800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 564600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 569800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 572200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 583400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 586600000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "adianta",
+                        "Offset": 590200000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 601000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 602600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "visão",
+                        "Offset": 607000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 619400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 621400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 623400000,
+                        "Duration": 6800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "9630ba0d41b5408ca6c7c098c819fce2",
+        "RecognitionStatus": 0,
+        "Offset": 544300000,
+        "Duration": 44400000,
+        "Channel": 0,
+        "DisplayText": "Dia sim, dia não, ai.",
+        "NBest": [
+            {
+                "Confidence": 0.59239936,
+                "Lexical": "dia sim dia não ai",
+                "ITN": "dia sim dia não ai",
+                "MaskedITN": "dia sim dia não ai",
+                "Display": "Dia sim, dia não, ai.",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 694500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 700100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 703300000,
+                        "Duration": 14800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 718100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "ai",
+                        "Offset": 735700000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.71508014,
+                "Lexical": "dia sim dia não",
+                "ITN": "dia sim dia não",
+                "MaskedITN": "dia sim dia não",
+                "Display": "dia sim dia não",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 694500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 700100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 703300000,
+                        "Duration": 14800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 718100000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.71508014,
+                "Lexical": "dia sim dia não",
+                "ITN": "dia sim dia não",
+                "MaskedITN": "dia sim dia não",
+                "Display": "dia sim dia não",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 694500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 700100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 703300000,
+                        "Duration": 14800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 718100000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.59239936,
+                "Lexical": "dia sim dia não ai",
+                "ITN": "dia sim dia não ai",
+                "MaskedITN": "dia sim dia não ai",
+                "Display": "dia sim dia não ai",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 694500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 700100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 703300000,
+                        "Duration": 14800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 718100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "ai",
+                        "Offset": 735700000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.59211713,
+                "Lexical": "dia sim dia não ai",
+                "ITN": "dia sim dia não ai",
+                "MaskedITN": "dia sim dia não ai",
+                "Display": "dia sim dia não ai",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 694500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 700100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 703300000,
+                        "Duration": 14800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 718100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "ai",
+                        "Offset": 735700000,
+                        "Duration": 3200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "eba0b1ec4ed7405ea7324e80b0386786",
+        "RecognitionStatus": 0,
+        "Offset": 589200000,
+        "Duration": 45600000,
+        "Channel": 0,
+        "DisplayText": "Ainda não sei. A solidão é o duro.",
+        "NBest": [
+            {
+                "Confidence": 0.59738404,
+                "Lexical": "ainda não sei a solidão é o duro",
+                "ITN": "ainda não sei a solidão é o duro",
+                "MaskedITN": "ainda não sei a solidão é o duro",
+                "Display": "Ainda não sei. A solidão é o duro.",
+                "Words": [
+                    {
+                        "Word": "ainda",
+                        "Offset": 739400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 742200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 745000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 752200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "solidão",
+                        "Offset": 753000000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 763000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 766600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "duro",
+                        "Offset": 781400000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88228714,
+                "Lexical": "ainda não sei a solidão",
+                "ITN": "ainda não sei a solidão",
+                "MaskedITN": "ainda não sei a solidão",
+                "Display": "ainda não sei a solidão",
+                "Words": [
+                    {
+                        "Word": "ainda",
+                        "Offset": 739400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 742200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 745000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 752200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "solidão",
+                        "Offset": 753000000,
+                        "Duration": 16400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88228714,
+                "Lexical": "ainda não sei a solidão",
+                "ITN": "ainda não sei a solidão",
+                "MaskedITN": "ainda não sei a solidão",
+                "Display": "ainda não sei a solidão",
+                "Words": [
+                    {
+                        "Word": "ainda",
+                        "Offset": 739400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 742200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 745000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 752200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "solidão",
+                        "Offset": 753000000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88228714,
+                "Lexical": "ainda não sei a solidão",
+                "ITN": "ainda não sei a solidão",
+                "MaskedITN": "ainda não sei a solidão",
+                "Display": "ainda não sei a solidão",
+                "Words": [
+                    {
+                        "Word": "ainda",
+                        "Offset": 739400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 742200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 745000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 752200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "solidão",
+                        "Offset": 753000000,
+                        "Duration": 16400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.59738404,
+                "Lexical": "ainda não sei a solidão é o duro",
+                "ITN": "ainda não sei a solidão é o duro",
+                "MaskedITN": "ainda não sei a solidão é o duro",
+                "Display": "ainda não sei a solidão é o duro",
+                "Words": [
+                    {
+                        "Word": "ainda",
+                        "Offset": 739400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 742200000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 745000000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 752200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "solidão",
+                        "Offset": 753000000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 763000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 764600000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "duro",
+                        "Offset": 765400000,
+                        "Duration": 4000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "c6a802ee4539407f9b19ca7674258fe8",
+        "RecognitionStatus": 0,
+        "Offset": 650800000,
+        "Duration": 10400000,
+        "Channel": 0,
+        "DisplayText": "Se castigo.",
+        "NBest": [
+            {
+                "Confidence": 0.40012375,
+                "Lexical": "se castigo",
+                "ITN": "se castigo",
+                "MaskedITN": "se castigo",
+                "Display": "Se castigo.",
+                "Words": [
+                    {
+                        "Word": "se",
+                        "Offset": 801000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "castigo",
+                        "Offset": 801800000,
+                        "Duration": 9600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.27944025,
+                "Lexical": "sim castigo",
+                "ITN": "sim castigo",
+                "MaskedITN": "sim castigo",
+                "Display": "sim castigo",
+                "Words": [
+                    {
+                        "Word": "sim",
+                        "Offset": 801000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "castigo",
+                        "Offset": 802200000,
+                        "Duration": 9200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.40012357,
+                "Lexical": "se castigo",
+                "ITN": "se castigo",
+                "MaskedITN": "se castigo",
+                "Display": "se castigo",
+                "Words": [
+                    {
+                        "Word": "se",
+                        "Offset": 801000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "castigo",
+                        "Offset": 801800000,
+                        "Duration": 9600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.40012375,
+                "Lexical": "se castigo",
+                "ITN": "se castigo",
+                "MaskedITN": "se castigo",
+                "Display": "se castigo",
+                "Words": [
+                    {
+                        "Word": "se",
+                        "Offset": 801000000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "castigo",
+                        "Offset": 801800000,
+                        "Duration": 9600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.66345435,
+                "Lexical": "castigo",
+                "ITN": "castigo",
+                "MaskedITN": "castigo",
+                "Display": "castigo",
+                "Words": [
+                    {
+                        "Word": "castigo",
+                        "Offset": 801400000,
+                        "Duration": 10000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "3c4cd167461945c2be589180853ba428",
+        "RecognitionStatus": 0,
+        "Offset": 769200000,
+        "Duration": 46000000,
+        "Channel": 0,
+        "DisplayText": "Mas eu sei, no fundo, eu podia te procurar.",
+        "NBest": [
+            {
+                "Confidence": 0.9002483,
+                "Lexical": "mas eu sei no fundo eu podia te procurar",
+                "ITN": "mas eu sei no fundo eu podia te procurar",
+                "MaskedITN": "mas eu sei no fundo eu podia te procurar",
+                "Display": "Mas eu sei, no fundo, eu podia te procurar.",
+                "Words": [
+                    {
+                        "Word": "mas",
+                        "Offset": 919400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 924200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 925400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 932200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "fundo",
+                        "Offset": 937000000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 945400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "podia",
+                        "Offset": 946600000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 956200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "procurar",
+                        "Offset": 958200000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9002483,
+                "Lexical": "mas eu sei no fundo eu podia te procurar",
+                "ITN": "mas eu sei no fundo eu podia te procurar",
+                "MaskedITN": "mas eu sei no fundo eu podia te procurar",
+                "Display": "mas eu sei no fundo eu podia te procurar",
+                "Words": [
+                    {
+                        "Word": "mas",
+                        "Offset": 919400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 924200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 925400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 932200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "fundo",
+                        "Offset": 937000000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 945400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "podia",
+                        "Offset": 946600000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 956200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "procurar",
+                        "Offset": 958200000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9002483,
+                "Lexical": "mas eu sei no fundo eu podia te procurar",
+                "ITN": "mas eu sei no fundo eu podia te procurar",
+                "MaskedITN": "mas eu sei no fundo eu podia te procurar",
+                "Display": "mas eu sei no fundo eu podia te procurar",
+                "Words": [
+                    {
+                        "Word": "mas",
+                        "Offset": 919400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 924200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 925400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 932200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "fundo",
+                        "Offset": 937000000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 945400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "podia",
+                        "Offset": 946600000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 956200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "procurar",
+                        "Offset": 958200000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9002483,
+                "Lexical": "mas eu sei no fundo eu podia te procurar",
+                "ITN": "mas eu sei no fundo eu podia te procurar",
+                "MaskedITN": "mas eu sei no fundo eu podia te procurar",
+                "Display": "mas eu sei no fundo eu podia te procurar",
+                "Words": [
+                    {
+                        "Word": "mas",
+                        "Offset": 919400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 924200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 925400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 932200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "fundo",
+                        "Offset": 937000000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 945400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "podia",
+                        "Offset": 946600000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 956200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "procurar",
+                        "Offset": 958200000,
+                        "Duration": 7600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9002483,
+                "Lexical": "mas eu sei no fundo eu podia te procurar",
+                "ITN": "mas eu sei no fundo eu podia te procurar",
+                "MaskedITN": "mas eu sei no fundo eu podia te procurar",
+                "Display": "mas eu sei no fundo eu podia te procurar",
+                "Words": [
+                    {
+                        "Word": "mas",
+                        "Offset": 919400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 924200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 925400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 932200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "fundo",
+                        "Offset": 937000000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 945400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "podia",
+                        "Offset": 946600000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "te",
+                        "Offset": 956200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "procurar",
+                        "Offset": 958200000,
+                        "Duration": 7600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "eead91970f88403c90073f893085f424",
+        "RecognitionStatus": 0,
+        "Offset": 820300000,
+        "Duration": 33200000,
+        "Channel": 0,
+        "DisplayText": "Pensei só.",
+        "NBest": [
+            {
+                "Confidence": 0.2440852,
+                "Lexical": "pensei só",
+                "ITN": "pensei só",
+                "MaskedITN": "pensei só",
+                "Display": "Pensei só.",
+                "Words": [
+                    {
+                        "Word": "pensei",
+                        "Offset": 970500000,
+                        "Duration": 14400000
+                    },
+                    {
+                        "Word": "só",
+                        "Offset": 999300000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0,
+                "Lexical": "",
+                "ITN": "",
+                "MaskedITN": "",
+                "Display": ""
+            },
+            {
+                "Confidence": 0.35564998,
+                "Lexical": "pensei",
+                "ITN": "pensei",
+                "MaskedITN": "pensei",
+                "Display": "pensei",
+                "Words": [
+                    {
+                        "Word": "pensei",
+                        "Offset": 970500000,
+                        "Duration": 14400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.47248986,
+                "Lexical": "pensei",
+                "ITN": "pensei",
+                "MaskedITN": "pensei",
+                "Display": "pensei",
+                "Words": [
+                    {
+                        "Word": "pensei",
+                        "Offset": 970500000,
+                        "Duration": 14400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.35564998,
+                "Lexical": "pensei",
+                "ITN": "pensei",
+                "MaskedITN": "pensei",
+                "Display": "pensei",
+                "Words": [
+                    {
+                        "Word": "pensei",
+                        "Offset": 970500000,
+                        "Duration": 14400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "902382babb924259b50b957bbaf01b90",
+        "RecognitionStatus": 0,
+        "Offset": 858400000,
+        "Duration": 34000000,
+        "Channel": 0,
+        "DisplayText": "Uma vez não faz.",
+        "NBest": [
+            {
+                "Confidence": 0.5025392,
+                "Lexical": "uma vez não faz",
+                "ITN": "uma vez não faz",
+                "MaskedITN": "uma vez não faz",
+                "Display": "Uma vez não faz.",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 1008600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vez",
+                        "Offset": 1012600000,
+                        "Duration": 18400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1033400000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "faz",
+                        "Offset": 1039000000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8384321,
+                "Lexical": "uma vez",
+                "ITN": "uma vez",
+                "MaskedITN": "uma vez",
+                "Display": "uma vez",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 1008600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vez",
+                        "Offset": 1012600000,
+                        "Duration": 18400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8384321,
+                "Lexical": "uma vez",
+                "ITN": "uma vez",
+                "MaskedITN": "uma vez",
+                "Display": "uma vez",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 1008600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vez",
+                        "Offset": 1012600000,
+                        "Duration": 11200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8384321,
+                "Lexical": "uma vez",
+                "ITN": "uma vez",
+                "MaskedITN": "uma vez",
+                "Display": "uma vez",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 1008600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vez",
+                        "Offset": 1012600000,
+                        "Duration": 18400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5025392,
+                "Lexical": "uma vez não faz",
+                "ITN": "uma vez não faz",
+                "MaskedITN": "uma vez não faz",
+                "Display": "uma vez não faz",
+                "Words": [
+                    {
+                        "Word": "uma",
+                        "Offset": 1008600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vez",
+                        "Offset": 1012600000,
+                        "Duration": 18400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1033400000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "faz",
+                        "Offset": 1039000000,
+                        "Duration": 3600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "cfb458220ee8485c886f496da6f0c64c",
+        "RecognitionStatus": 0,
+        "Offset": 893200000,
+        "Duration": 20000000,
+        "Channel": 0,
+        "DisplayText": "Não faz mal a ninguém.",
+        "NBest": [
+            {
+                "Confidence": 0.74705267,
+                "Lexical": "não faz mal a ninguém",
+                "ITN": "não faz mal a ninguém",
+                "MaskedITN": "não faz mal a ninguém",
+                "Display": "Não faz mal a ninguém.",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1043400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "faz",
+                        "Offset": 1044600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mal",
+                        "Offset": 1046200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 1047400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1049400000,
+                        "Duration": 14000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.74705267,
+                "Lexical": "não faz mal a ninguém",
+                "ITN": "não faz mal a ninguém",
+                "MaskedITN": "não faz mal a ninguém",
+                "Display": "não faz mal a ninguém",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1043400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "faz",
+                        "Offset": 1044600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mal",
+                        "Offset": 1046200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 1047400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1049400000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.74705267,
+                "Lexical": "não faz mal a ninguém",
+                "ITN": "não faz mal a ninguém",
+                "MaskedITN": "não faz mal a ninguém",
+                "Display": "não faz mal a ninguém",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1043400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "faz",
+                        "Offset": 1044600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mal",
+                        "Offset": 1046200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 1047400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1049400000,
+                        "Duration": 14000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.74705267,
+                "Lexical": "não faz mal a ninguém",
+                "ITN": "não faz mal a ninguém",
+                "MaskedITN": "não faz mal a ninguém",
+                "Display": "não faz mal a ninguém",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1043400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "faz",
+                        "Offset": 1044600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mal",
+                        "Offset": 1046200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 1047400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1049400000,
+                        "Duration": 14000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.74705267,
+                "Lexical": "não faz mal a ninguém",
+                "ITN": "não faz mal a ninguém",
+                "MaskedITN": "não faz mal a ninguém",
+                "Display": "não faz mal a ninguém",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1043400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "faz",
+                        "Offset": 1044600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mal",
+                        "Offset": 1046200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 1047400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1049400000,
+                        "Duration": 14000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "9655d1272e994fcdb658cfefbb48db48",
+        "RecognitionStatus": 0,
+        "Offset": 925200000,
+        "Duration": 48800000,
+        "Channel": 0,
+        "DisplayText": "De onde vem essa vontade de me torturar?",
+        "NBest": [
+            {
+                "Confidence": 0.72358924,
+                "Lexical": "de onde vem essa vontade de me torturar",
+                "ITN": "de onde vem essa vontade de me torturar",
+                "MaskedITN": "de onde vem essa vontade de me torturar",
+                "Display": "De onde vem essa vontade de me torturar?",
+                "Words": [
+                    {
+                        "Word": "de",
+                        "Offset": 1075400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1077400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vem",
+                        "Offset": 1079000000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 1094200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 1098200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 1105800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1108600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "torturar",
+                        "Offset": 1110200000,
+                        "Duration": 14000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5872387,
+                "Lexical": "de onde vêm essa vontade de me torturar",
+                "ITN": "de onde vêm essa vontade de me torturar",
+                "MaskedITN": "de onde vêm essa vontade de me torturar",
+                "Display": "de onde vêm essa vontade de me torturar",
+                "Words": [
+                    {
+                        "Word": "de",
+                        "Offset": 1075400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1077400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vêm",
+                        "Offset": 1079000000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 1094200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 1098200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 1105800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1108600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "torturar",
+                        "Offset": 1110200000,
+                        "Duration": 14000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72358924,
+                "Lexical": "de onde vem essa vontade de me torturar",
+                "ITN": "de onde vem essa vontade de me torturar",
+                "MaskedITN": "de onde vem essa vontade de me torturar",
+                "Display": "de onde vem essa vontade de me torturar",
+                "Words": [
+                    {
+                        "Word": "de",
+                        "Offset": 1075400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1077400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vem",
+                        "Offset": 1079000000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 1094200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 1098200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 1105800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1108600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "torturar",
+                        "Offset": 1110200000,
+                        "Duration": 14000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72358924,
+                "Lexical": "de onde vem essa vontade de me torturar",
+                "ITN": "de onde vem essa vontade de me torturar",
+                "MaskedITN": "de onde vem essa vontade de me torturar",
+                "Display": "de onde vem essa vontade de me torturar",
+                "Words": [
+                    {
+                        "Word": "de",
+                        "Offset": 1075400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1077400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vem",
+                        "Offset": 1079000000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 1094200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 1098200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 1105800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1108600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "torturar",
+                        "Offset": 1110200000,
+                        "Duration": 14000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72358924,
+                "Lexical": "de onde vem essa vontade de me torturar",
+                "ITN": "de onde vem essa vontade de me torturar",
+                "MaskedITN": "de onde vem essa vontade de me torturar",
+                "Display": "de onde vem essa vontade de me torturar",
+                "Words": [
+                    {
+                        "Word": "de",
+                        "Offset": 1075400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1077400000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vem",
+                        "Offset": 1079000000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 1094200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 1098200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 1105800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1108600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "torturar",
+                        "Offset": 1110200000,
+                        "Duration": 9200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "665bc7cc36c14faf86254fbac6125770",
+        "RecognitionStatus": 0,
+        "Offset": 1001600000,
+        "Duration": 66400000,
+        "Channel": 0,
+        "DisplayText": "Outro dia, nesse sofá, me perguntou onde minha cabeça está?",
+        "NBest": [
+            {
+                "Confidence": 0.69547355,
+                "Lexical": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "ITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "MaskedITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Display": "Outro dia, nesse sofá, me perguntou onde minha cabeça está?",
+                "Words": [
+                    {
+                        "Word": "outro",
+                        "Offset": 1151800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1158200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 1163000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 1167000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1175800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "perguntou",
+                        "Offset": 1179400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1190200000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 1196200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "cabeça",
+                        "Offset": 1201400000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 1211400000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7215662,
+                "Lexical": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "ITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "MaskedITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Display": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Words": [
+                    {
+                        "Word": "outro",
+                        "Offset": 1151800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1158200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 1163000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 1167000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1175800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "perguntou",
+                        "Offset": 1179400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1190200000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 1196200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "cabeça",
+                        "Offset": 1201400000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 1211400000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7215662,
+                "Lexical": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "ITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "MaskedITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Display": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Words": [
+                    {
+                        "Word": "outro",
+                        "Offset": 1151800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1158200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 1163000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 1167000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1175800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "perguntou",
+                        "Offset": 1179400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1190200000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 1196200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "cabeça",
+                        "Offset": 1201400000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 1211400000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.69547355,
+                "Lexical": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "ITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "MaskedITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Display": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Words": [
+                    {
+                        "Word": "outro",
+                        "Offset": 1151800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1158200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 1163000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 1167000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1175800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "perguntou",
+                        "Offset": 1179400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1190200000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 1196200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "cabeça",
+                        "Offset": 1201400000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 1211400000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7215662,
+                "Lexical": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "ITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "MaskedITN": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Display": "outro dia nesse sofá me perguntou onde minha cabeça está",
+                "Words": [
+                    {
+                        "Word": "outro",
+                        "Offset": 1151800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1158200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "nesse",
+                        "Offset": 1163000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "sofá",
+                        "Offset": 1167000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 1175800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "perguntou",
+                        "Offset": 1179400000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "onde",
+                        "Offset": 1190200000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "minha",
+                        "Offset": 1196200000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "cabeça",
+                        "Offset": 1201400000,
+                        "Duration": 10000000
+                    },
+                    {
+                        "Word": "está",
+                        "Offset": 1211400000,
+                        "Duration": 6800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "68b3492cdb824436b4a183cfd67a67d7",
+        "RecognitionStatus": 0,
+        "Offset": 1088400000,
+        "Duration": 7200000,
+        "Channel": 0,
+        "DisplayText": "Navegando.",
+        "NBest": [
+            {
+                "Confidence": 0.35491493,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "Navegando.",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 1238600000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.35491493,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 1238600000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.35491493,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 1238600000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.35491493,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 1238600000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.35491493,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 1238600000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "f11e29fba07e41ec926281832d3d3492",
+        "RecognitionStatus": 0,
+        "Offset": 1123500000,
+        "Duration": 8800000,
+        "Channel": 0,
+        "DisplayText": "Navegador.",
+        "NBest": [
+            {
+                "Confidence": 0.054711916,
+                "Lexical": "navegador",
+                "ITN": "navegador",
+                "MaskedITN": "navegador",
+                "Display": "Navegador.",
+                "Words": [
+                    {
+                        "Word": "navegador",
+                        "Offset": 1273700000,
+                        "Duration": 8800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.036867626,
+                "Lexical": "na",
+                "ITN": "na",
+                "MaskedITN": "na",
+                "Display": "na",
+                "Words": [
+                    {
+                        "Word": "na",
+                        "Offset": 1262500000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0,
+                "Lexical": "",
+                "ITN": "",
+                "MaskedITN": "",
+                "Display": ""
+            },
+            {
+                "Confidence": 0.054711916,
+                "Lexical": "navegador",
+                "ITN": "navegador",
+                "MaskedITN": "navegador",
+                "Display": "navegador",
+                "Words": [
+                    {
+                        "Word": "navegador",
+                        "Offset": 1273700000,
+                        "Duration": 8800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.036867626,
+                "Lexical": "na",
+                "ITN": "na",
+                "MaskedITN": "na",
+                "Display": "na",
+                "Words": [
+                    {
+                        "Word": "na",
+                        "Offset": 1262500000,
+                        "Duration": 2000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "c47562c7f7544001a772254a823ec611",
+        "RecognitionStatus": 0,
+        "Offset": 1161200000,
+        "Duration": 14800000,
+        "Channel": 0,
+        "DisplayText": "Navegando.",
+        "NBest": [
+            {
+                "Confidence": 0.18030533,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "Navegando.",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 1311400000,
+                        "Duration": 14800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.030693969,
+                "Lexical": "navegar",
+                "ITN": "navegar",
+                "MaskedITN": "navegar",
+                "Display": "navegar",
+                "Words": [
+                    {
+                        "Word": "navegar",
+                        "Offset": 1311400000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.18030533,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 1311400000,
+                        "Duration": 14800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.18030533,
+                "Lexical": "navegando",
+                "ITN": "navegando",
+                "MaskedITN": "navegando",
+                "Display": "navegando",
+                "Words": [
+                    {
+                        "Word": "navegando",
+                        "Offset": 1311400000,
+                        "Duration": 14800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.010058385,
+                "Lexical": "navegado",
+                "ITN": "navegado",
+                "MaskedITN": "navegado",
+                "Display": "navegado",
+                "Words": [
+                    {
+                        "Word": "navegado",
+                        "Offset": 1311400000,
+                        "Duration": 14800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "668021a6f66041ae930bdb34a6731cab",
+        "RecognitionStatus": 0,
+        "Offset": 1377600000,
+        "Duration": 30000000,
+        "Channel": 0,
+        "DisplayText": "Não, não, eu sei.",
+        "NBest": [
+            {
+                "Confidence": 0.8500097,
+                "Lexical": "não não eu sei",
+                "ITN": "não não eu sei",
+                "MaskedITN": "não não eu sei",
+                "Display": "Não, não, eu sei.",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1527800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1545400000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1552200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 1554600000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8500097,
+                "Lexical": "não não eu sei",
+                "ITN": "não não eu sei",
+                "MaskedITN": "não não eu sei",
+                "Display": "não não eu sei",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1527800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1545400000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1552200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 1554600000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8500097,
+                "Lexical": "não não eu sei",
+                "ITN": "não não eu sei",
+                "MaskedITN": "não não eu sei",
+                "Display": "não não eu sei",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1527800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1545400000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1552200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 1554600000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8500097,
+                "Lexical": "não não eu sei",
+                "ITN": "não não eu sei",
+                "MaskedITN": "não não eu sei",
+                "Display": "não não eu sei",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1527800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1545400000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1552200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 1554600000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8500097,
+                "Lexical": "não não eu sei",
+                "ITN": "não não eu sei",
+                "MaskedITN": "não não eu sei",
+                "Display": "não não eu sei",
+                "Words": [
+                    {
+                        "Word": "não",
+                        "Offset": 1527800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1545400000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1552200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sei",
+                        "Offset": 1554600000,
+                        "Duration": 3600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "693f529f2ac54dce999dedd2f025de7e",
+        "RecognitionStatus": 0,
+        "Offset": 1422300000,
+        "Duration": 52000000,
+        "Channel": 0,
+        "DisplayText": "Ninguém aqui vai arruinar eu sossego.",
+        "NBest": [
+            {
+                "Confidence": 0.5642836,
+                "Lexical": "ninguém aqui vai arruinar eu sossego",
+                "ITN": "ninguém aqui vai arruinar eu sossego",
+                "MaskedITN": "ninguém aqui vai arruinar eu sossego",
+                "Display": "Ninguém aqui vai arruinar eu sossego.",
+                "Words": [
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1572500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 1581300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 1589300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "arruinar",
+                        "Offset": 1595300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1609300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sossego",
+                        "Offset": 1610900000,
+                        "Duration": 13600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.57603866,
+                "Lexical": "ninguém aqui vai arruinar meu sossego",
+                "ITN": "ninguém aqui vai arruinar meu sossego",
+                "MaskedITN": "ninguém aqui vai arruinar meu sossego",
+                "Display": "ninguém aqui vai arruinar meu sossego",
+                "Words": [
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1572500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 1581300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 1589300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "arruinar",
+                        "Offset": 1595300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 1608900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sossego",
+                        "Offset": 1610900000,
+                        "Duration": 13600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5642836,
+                "Lexical": "ninguém aqui vai arruinar eu sossego",
+                "ITN": "ninguém aqui vai arruinar eu sossego",
+                "MaskedITN": "ninguém aqui vai arruinar eu sossego",
+                "Display": "ninguém aqui vai arruinar eu sossego",
+                "Words": [
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1572500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 1581300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 1589300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "arruinar",
+                        "Offset": 1595300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1609300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sossego",
+                        "Offset": 1610900000,
+                        "Duration": 13600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5642836,
+                "Lexical": "ninguém aqui vai arruinar eu sossego",
+                "ITN": "ninguém aqui vai arruinar eu sossego",
+                "MaskedITN": "ninguém aqui vai arruinar eu sossego",
+                "Display": "ninguém aqui vai arruinar eu sossego",
+                "Words": [
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1572500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 1581300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 1589300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "arruinar",
+                        "Offset": 1595300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1609300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sossego",
+                        "Offset": 1610900000,
+                        "Duration": 13600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.57603866,
+                "Lexical": "ninguém aqui vai arruinar meu sossego",
+                "ITN": "ninguém aqui vai arruinar meu sossego",
+                "MaskedITN": "ninguém aqui vai arruinar meu sossego",
+                "Display": "ninguém aqui vai arruinar meu sossego",
+                "Words": [
+                    {
+                        "Word": "ninguém",
+                        "Offset": 1572500000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 1581300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "vai",
+                        "Offset": 1589300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "arruinar",
+                        "Offset": 1595300000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 1608900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "sossego",
+                        "Offset": 1610900000,
+                        "Duration": 13600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "3cc6bb0366c748ddac87bc7004d2d6fb",
+        "RecognitionStatus": 0,
+        "Offset": 1534700000,
+        "Duration": 94400000,
+        "Channel": 0,
+        "DisplayText": "Dia sim, dia não e até pode ser que eu esteja o tempo sul.",
+        "NBest": [
+            {
+                "Confidence": 0.58710474,
+                "Lexical": "dia sim dia não e até pode ser que eu esteja o tempo sul",
+                "ITN": "dia sim dia não e até pode ser que eu esteja o tempo sul",
+                "MaskedITN": "dia sim dia não e até pode ser que eu esteja o tempo sul",
+                "Display": "Dia sim, dia não e até pode ser que eu esteja o tempo sul.",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 1684900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 1690100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1703700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1708100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 1724100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 1725700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 1729300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 1736100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 1741700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1742500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esteja",
+                        "Offset": 1743300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 1748500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 1748900000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "sul",
+                        "Offset": 1777300000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6097396,
+                "Lexical": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "ITN": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "MaskedITN": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "Display": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 1684900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 1690100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1703700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1708100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 1724100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 1725700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 1729300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 1736100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 1741700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1742500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esteja",
+                        "Offset": 1743300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 1747700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 1748500000,
+                        "Duration": 11600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.58710474,
+                "Lexical": "dia sim dia não e até pode ser que eu esteja o tempo sul",
+                "ITN": "dia sim dia não e até pode ser que eu esteja o tempo sul",
+                "MaskedITN": "dia sim dia não e até pode ser que eu esteja o tempo sul",
+                "Display": "dia sim dia não e até pode ser que eu esteja o tempo sul",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 1684900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 1690100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1703700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1708100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 1724100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 1725700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 1729300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 1736100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 1741700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1742500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esteja",
+                        "Offset": 1743300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 1748500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 1748900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "sul",
+                        "Offset": 1756100000,
+                        "Duration": 4400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6097396,
+                "Lexical": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "ITN": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "MaskedITN": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "Display": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 1684900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 1690100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1703700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1708100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 1724100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 1725700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 1729300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 1736100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 1741700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1742500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esteja",
+                        "Offset": 1743300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 1747700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 1748500000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6097396,
+                "Lexical": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "ITN": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "MaskedITN": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "Display": "dia sim dia não e até pode ser que eu esteja um tempo",
+                "Words": [
+                    {
+                        "Word": "dia",
+                        "Offset": 1684900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 1690100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "dia",
+                        "Offset": 1703700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 1708100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 1724100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 1725700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 1729300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 1736100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 1741700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 1742500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "esteja",
+                        "Offset": 1743300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 1747700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tempo",
+                        "Offset": 1748500000,
+                        "Duration": 11600000
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+{
+    "documents": [
+        {
+            "id": "id__1671",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.17,
+                "neutral": 0.23,
+                "negative": 0.6
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.58,
+                        "negative": 0.31
+                    },
+                    "offset": 0,
+                    "length": 117,
+                    "text": "Olhando para fora da janela, vejo a chuva caindo em um ritmo constante, ecoando os batimentos lentos do meu coração. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.68,
+                        "neutral": 0.29,
+                        "negative": 0.03
+                    },
+                    "offset": 117,
+                    "length": 83,
+                    "text": "É engraçado como o clima muitas vezes espelha nossos próprios estados de espírito. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 136,
+                            "length": 5,
+                            "text": "clima",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 119,
+                            "length": 9,
+                            "text": "engraçado",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.68,
+                        "negative": 0.29
+                    },
+                    "offset": 200,
+                    "length": 81,
+                    "text": "Hoje, as nuvens escuras pairam sobre mim, refletindo a tempestade dentro de mim. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.19,
+                        "negative": 0.8
+                    },
+                    "offset": 281,
+                    "length": 149,
+                    "text": "Sinto-me como se estivesse preso em um ciclo interminável de pensamentos negativos, revivendo um ocorrido recente que deixou um buraco no meu peito.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.12,
+                        "neutral": 0.32,
+                        "negative": 0.55
+                    },
+                    "offset": 430,
+                    "length": 101,
+                    "text": "É estranho como as memórias podem ser como fantasmas, assombrando-nos nos momentos mais inesperados. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.04,
+                        "negative": 0.94
+                    },
+                    "offset": 531,
+                    "length": 104,
+                    "text": "Revivo cada palavra dita, cada olhar decepcionado, e sinto o peso da tristeza me arrastando para baixo. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.5,
+                        "negative": 0.49
+                    },
+                    "offset": 635,
+                    "length": 89,
+                    "text": "É como se eu estivesse preso em uma espiral descendente, incapaz de encontrar uma saída.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.32,
+                        "negative": 0.67
+                    },
+                    "offset": 724,
+                    "length": 71,
+                    "text": "Nesses momentos sombrios, é difícil encontrar uma luz no fim do túnel. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.25,
+                        "neutral": 0.29,
+                        "negative": 0.45
+                    },
+                    "offset": 795,
+                    "length": 118,
+                    "text": "Tento me agarrar às lembranças felizes, mas elas parecem tão distantes agora, obscurecidas pela sombra da melancolia. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.02
+                    },
+                    "offset": 913,
+                    "length": 92,
+                    "text": "Talvez seja apenas uma fase passageira, uma tempestade que eventualmente dará lugar ao sol. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.16,
+                        "negative": 0.79
+                    },
+                    "offset": 1005,
+                    "length": 128,
+                    "text": "Mas, por enquanto, estou encolhido sob o cobertor da tristeza, esperando que a dor desapareça e que eu encontre a paz novamente.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
